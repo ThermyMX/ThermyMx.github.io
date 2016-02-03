@@ -7,8 +7,12 @@
   Version: 1.0
 */
 
-@media (min-width: 1440px)
-{
+@media (min-width: 1440px) {
+
+    #p-container {
+        width: 100%;
+    }
+
     .banners{
         background-position: center center;
         background-size: cover;
@@ -70,6 +74,14 @@
     }
 }
 @media (min-width: 992px) and (max-width: 1199px){
+    
+    #p-container {
+        width: 100%;
+        padding: 2em;
+    }
+    .halfImg {
+        top: -120px;
+    }
     .halfImg img {
         width: 100%;
     }
@@ -227,6 +239,9 @@
         font-size: 100px;
         line-height: 1;
         margin: 60px 0 0;
+    }
+    .halfImg {
+        top: -120px;
     }
     .halfImg {
         left: 0;
@@ -402,6 +417,9 @@
 @media (min-width: 481px) and (max-width: 767px){
     #principal-logo {
         width: 50%;
+    }
+    .halfImg {
+        top: -120px;
     }
     .halfImg img {
         width: 100%;
@@ -970,6 +988,9 @@
         -webkit-transition: none;
         -ms-transition: none;
         -o-transition: none;
+    }
+    .halfImg {
+        top: -120px;
     }
     .mainMenu > ul{
         display: none;
