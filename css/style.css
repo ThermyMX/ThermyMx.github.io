@@ -780,7 +780,7 @@ body.menuOpened .sideMenuArea{
     position: absolute;
     left: -15px;
     top: 0;
-    width: 50%;
+    width: 60%;
     height: 100%;
     overflow: hidden;
 }
