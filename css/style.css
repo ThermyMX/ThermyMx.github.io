@@ -1710,7 +1710,7 @@ body.menuOpened .sideMenuArea{
 }
 .teamDetails{
     width: 222px;
-    height: 101px;
+    height: 125px;
     background: #2c3da7;
     position: absolute;
     left: 0;
@@ -1738,9 +1738,9 @@ body.menuOpened .sideMenuArea{
     display: inline-block;
     text-transform: uppercase;
     font-weight: 700;
-    font-size: 16px;
-    letter-spacing: 7px;
-    line-height: .8;
+    font-size: 18px;
+    letter-spacing: 5px;
+    line-height: 1;
     margin-bottom: 15px;
 }
 .teamDetails a:hover{
@@ -1748,12 +1748,12 @@ body.menuOpened .sideMenuArea{
 }
 .teamDetails span{
     display: block;
-    font-size: 12px;
-    line-height: .8;
+    font-size: 14px;
+    line-height: 1;
     text-transform: uppercase;
     font-weight: 400;
     color: #FFF;
-    letter-spacing: 6px;
+    letter-spacing: 4px;
 }
 .twitterFeedsa{
     position: relative;
@@ -1895,7 +1895,7 @@ body.menuOpened .sideMenuArea{
 .teamsection .sectionTitle{
     margin-bottom: 123px
 }
-.teamsection .sectionTitle small{
+.teamsection .sectionTitle{
     color: #2DD1D2;
 }
 .singleTeam2{
