@@ -67,12 +67,12 @@ a:focus{
     letter-spacing: 2px;
     padding-bottom: 20px;
     line-height: .8;
-    
+
 }
 .learnMoreButton2:after{
     width: 40px;
     height: 2px;
-    background: #b89840;
+    background: #3997BF;
     content: "";
     left: 0;
     bottom: 0;
@@ -81,7 +81,7 @@ a:focus{
     position: absolute;
 }
 .learnMoreButton2:hover{
-    color: #b89840 !important;
+    color: #3997BF !important;
 }
 .learnMoreButton3{
     position: relative;
@@ -93,12 +93,12 @@ a:focus{
     letter-spacing: 2px;
     padding-bottom: 20px;
     line-height: .8;
-    
+
 }
 .learnMoreButton3:after{
     width: 40px;
     height: 2px;
-    background: #b89840;
+    background: #3997BF;
     content: "";
     left: 0;
     bottom: 0;
@@ -107,7 +107,7 @@ a:focus{
     position: absolute;
 }
 .learnMoreButton3:hover{
-    color: #b89840 !important;
+    color: #3997BF !important;
 }
 p{
     font-size: 16px;
@@ -162,7 +162,7 @@ p{
     font-weight: 100;
 }
 .biggerHeading2 span{
-    color: #b89840;
+    color: #3997BF;
     text-transform: capitalize;
 }
 .sectionTitle2{
@@ -175,7 +175,7 @@ p{
     font-size: 16px;
     text-transform: uppercase;
     font-weight: 300;
-    color: #b89841;
+    color: #3997BF;
     display: block;
     line-height: .8;
     letter-spacing: 8px;

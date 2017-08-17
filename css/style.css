@@ -61,18 +61,18 @@
 /*=======================================================================
 // Page Area
 =========================================================================*/
-.animat { 
-    -webkit-transition: all 0.5s ease; 
-    -moz-transition: all 0.5s ease; 
-    -o-transition: all 0.5s ease; 
-    -ms-transition: all 0.5s ease; 
-    transition: all 0.5s ease; 
+.animat {
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    -ms-transition: all 0.5s ease;
+    transition: all 0.5s ease;
 }
-.menuOpened #page { 
-    margin-left: -300px; width: 100%; 
+.menuOpened #page {
+    margin-left: -300px; width: 100%;
 }
-body.menuOpened { 
-    overflow: hidden; 
+body.menuOpened {
+    overflow: hidden;
 }
 body.bodyoverflos{
     overflow: hidden;
@@ -126,7 +126,7 @@ body.menuOpened .fixedHeader{
     color: #ffd667;
 }
 .home2 .logo a:hover{
-    color: #2DD1D2;
+    color: #496FAF;
 }
 .mainMenu{
     width: 100%;
@@ -231,7 +231,7 @@ body.menuOpened .fixedHeader{
     color: #ffd667;
 }
 .home2 .mainMenu ul li a:hover, .home2 .mainMenu ul li.active > a{
-    color: #2DD1D2;
+    color: #496FAF;
 }
 .mainMenu ul li ul{
     position: absolute;
@@ -379,7 +379,7 @@ body.menuOpened .sideMenuArea{
     top: 90px;
 }
 .closeBtn:hover, .closeBtn:focus{
-    color: #2DD1D2;
+    color: #496FAF;
 }
 
 .headerSocial{
@@ -539,7 +539,7 @@ body.menuOpened .sideMenuArea{
 .slid2s h1{
     font-family: Georgia;
     font-size: 130px;
-    color: #2DD1D2;
+    color: #496FAF;
     line-height: 110px;
     margin: 0px;
     text-transform: capitalize;
@@ -594,7 +594,7 @@ body.menuOpened .sideMenuArea{
     content: "";
 }
 .mainSlider .tp-bullets.simplebullets.round .bullet.selected{
-    border: 2px solid #2DD1D2;
+    border: 2px solid #496FAF;
     background: rgba(0, 0, 0, 0);
     padding: 0px;
 }
@@ -643,7 +643,7 @@ body.menuOpened .sideMenuArea{
 }
 .slid3s h2 span{
     display: block;
-    color: #2DD1D2;
+    color: #496FAF;
     display: block;
     margin: 32px 0 0;
 }
@@ -785,14 +785,14 @@ body.menuOpened .sideMenuArea{
     overflow: hidden;
 }
 .halfImg img{
-    height: 100%;
+    height: 90%;
     width: auto;
 }
 .features .sectionTitle2{
     margin-bottom: 34px;
 }
 .iconBox2 i{
-    color: #2DD1D2;
+    color: #496FAF;
     height: auto;
 }
 .iconBox2 h5{
@@ -819,7 +819,7 @@ body.menuOpened .sideMenuArea{
 }
 .iconBox3 i{
     font-size: 50px;
-    color: #2DD1D2;
+    color: #496FAF;
     display: inline-block;
     line-height: .8;
     height: 50px;
@@ -924,7 +924,7 @@ body.menuOpened .sideMenuArea{
 }
 .counters2 h2{
     font-family: Georgia;
-    color: #2DD1D2;
+    color: #496FAF;
     font-size: 56px;
     margin: 4px 0 23px;
 }
@@ -948,7 +948,7 @@ body.menuOpened .sideMenuArea{
     color: #000;
 }
 .counters3 h2{
-    color: #2DD1D2;
+    color: #496FAF;
     font-size: 56px;
     margin: 8px 0 25px;
     font-weight: 300;
@@ -978,7 +978,7 @@ body.menuOpened .sideMenuArea{
     z-index: 1;
 }
 .itemContent i{
-    color: #2DD1D2;
+    color: #496FAF;
     font-size: 96px;
     line-height: .8;
 }
@@ -1026,7 +1026,7 @@ body.menuOpened .sideMenuArea{
 .stellarTab li a:after{
     width: 0px;
     height: 2px;
-    background: #2DD1D2;
+    background: #496FAF;
     content: "";
     left: 0;
     bottom: 0;
@@ -1057,7 +1057,7 @@ body.menuOpened .sideMenuArea{
     padding: 150px 0 115px;
 }
 .whychoose2 .sectionTitle small{
-    color: #2DD1D2;
+    color: #496FAF;
 }
 .whychoose2 .sectionTitle{
     margin-bottom: 43px;
@@ -1287,10 +1287,10 @@ body.menuOpened .sideMenuArea{
 .folioNav2 ul li{
     font-weight: 700;
     letter-spacing: 2px;
-    line-height: .8;   
+    line-height: .8;
 }
 .folioNav2 ul li:after{
-    background: #2DD1D2;
+    background: #496FAF;
 }
 .folioGrid2{
     position: relative;
@@ -1359,20 +1359,20 @@ body.menuOpened .sideMenuArea{
     color: #fff;
 }
 .fI2content h2 a:hover{
-    color: #2DD1D2;
+    color: #496FAF;
 }
 .fI2Cats{
     width: 100%;
     text-align: center;
     line-height: .8;
-    color: #2DD1D2;
+    color: #496FAF;
     font-size: 12px;
     text-transform: uppercase;
     font-weight: 700;
     margin-top: 28px;
 }
 .fI2Cats a{
-    color: #2DD1D2;
+    color: #496FAF;
     font-size: 12px;
     text-transform: uppercase;
     font-style: italic;
@@ -1400,10 +1400,10 @@ body.menuOpened .sideMenuArea{
     padding: 150px 0 120px;
 }
 .portfolios3 .sectionTitle small{
-    color: #2DD1D2;
+    color: #496FAF;
 }
 .folioNav3 ul li:after{
-    background: #2DD1D2;
+    background: #496FAF;
 }
 .folioNav3{
     margin-top: 48px;
@@ -1476,20 +1476,20 @@ body.menuOpened .sideMenuArea{
     color: #FFF;
 }
 .fI3content h2 a:hover{
-    color: #2DD1D2;
+    color: #496FAF;
 }
 .fI3Cats{
     width: 100%;
     text-align: center;
     line-height: .8;
-    color: #2DD1D2;
+    color: #496FAF;
     font-size: 12px;
     text-transform: uppercase;
     font-weight: 700;
     margin-top: 30px;
 }
 .fI3Cats a{
-    color: #2DD1D2;
+    color: #496FAF;
     font-size: 12px;
     text-transform: uppercase;
     font-style: italic;
@@ -1519,7 +1519,7 @@ body.menuOpened .sideMenuArea{
     line-height: .8;
     letter-spacing: 8px;
     margin-bottom: 30px;
-    color: #b89841;
+    color: #496FAF;
     margin: 0px 0 15px;
     text-transform: uppercase;
     font-weight: 300;
@@ -1539,13 +1539,13 @@ body.menuOpened .sideMenuArea{
     font-family: Georgia;
 }
 .callToActionContent2 .stellarButton{
-    background: #b89841;
+    background: #496FAF;
     color: #FFF;
     font-weight: 700;
 }
 .callToActionContent2 .stellarButton:hover{
     background: #FFF;
-    color: #b89841;
+    color: #496FAF;
 }
 
 /*=======================================================================
@@ -1635,7 +1635,7 @@ body.menuOpened .sideMenuArea{
     padding: 155px 0;
 }
 .callToAction3 .sectionTitle small{
-    color: #2DD1D2;
+    color: #496FAF;
     margin: 0;
 }
 .callToAction3 .sectionTitle{
@@ -1654,7 +1654,7 @@ body.menuOpened .sideMenuArea{
     font-weight: 100;
 }
 .callToActionContent3 .stellarButton{
-    background: #2DD1D2;
+    background: #496FAF;
     color: #FFF;
     letter-spacing: 3px;
 }
@@ -1695,7 +1695,7 @@ body.menuOpened .sideMenuArea{
     top: 0;
     width: 100%;
     height: 100%;
-    background: rgba(255, 214, 103, .7);
+    background: rgba(29, 44, 69, .7);
     opacity: 0;
     visibility: hidden;
     transition: all ease 400ms;
@@ -1851,7 +1851,7 @@ body.menuOpened .sideMenuArea{
     position: relative;
 }
 .singleTeam2 img{
-    width: 100%;
+    width: 90%;
     height: auto;
 }
 .team2row{
@@ -1863,7 +1863,7 @@ body.menuOpened .sideMenuArea{
     top: 0;
     width: 100%;
     height: 100%;
-    background: rgba(184, 152, 65, .7);
+    background: rgba(29, 44, 69, .7);
     opacity: 0;
     visibility: hidden;
     transition: all ease 400ms;
@@ -1882,7 +1882,7 @@ body.menuOpened .sideMenuArea{
     bottom: -13px;
 }
 .singleTeam2 .teamDetails a:hover{
-    color: #b89841;
+    color: #496FAF;
 }
 /*=======================================================================
 // Team 3
@@ -1896,7 +1896,7 @@ body.menuOpened .sideMenuArea{
     margin-bottom: 123px
 }
 .teamsection .sectionTitle{
-    color: #2DD1D2;
+    color: #496FAF;
 }
 .singleTeam2{
     width: 270px;
@@ -1904,7 +1904,7 @@ body.menuOpened .sideMenuArea{
     margin: 0 2px 4px;
 }
 .singleTeam2 img{
-    width: 100%;
+    width: 90%;
     height: auto;
 }
 .team2row{
@@ -1918,7 +1918,7 @@ body.menuOpened .sideMenuArea{
     padding: 36px 0 128px;
 }
 .infoSection .biggerHeading span{
-    color: #b89841;
+    color: #496FAF;
 }
 .infoP{
     margin: 0px;
@@ -1988,7 +1988,7 @@ body.menuOpened .sideMenuArea{
     position: absolute;
 }
 .skillDetails .sectionTitle small{
-    color: #2DD1D2;
+    color: #496FAF;
 }
 .skillDetails .sectionTitle{
     margin-bottom: 85px;
@@ -2239,7 +2239,7 @@ body.menuOpened .sideMenuArea{
     font-weight: 400;
     font-size: 12px;
     text-transform: uppercase;
-    color: #b89841;
+    color: #496FAF;
     margin: 0px;
     text-align: left;
     letter-spacing: 2px;
@@ -2259,7 +2259,7 @@ body.menuOpened .sideMenuArea{
     margin-bottom: 107px;
 }
 .testimonial3 .sectionTitle small{
-    color: #2DD1D2;
+    color: #496FAF;
 }
 .testimonial3 .testiItem p{
     color: #000;
@@ -2268,7 +2268,7 @@ body.menuOpened .sideMenuArea{
     color: #000;
 }
 .testimonial3 .testiItem h6{
-    color: #2DD1D2;
+    color: #496FAF;
 }
 /*=======================================================================
 // Latest Blog
@@ -2394,7 +2394,7 @@ body.menuOpened .sideMenuArea{
     -o-transition: all ease 500ms;
 }
 .singleBlog2:hover, .singleBlog2:focus{
-    border-color: #b89841;
+    border-color: #496FAF;
 }
 .singleBlog2 .sbHeader{
     min-height: 155px;
@@ -2419,7 +2419,7 @@ body.menuOpened .sideMenuArea{
     color: #2c3da7;
 }
 .singleBlog2 .sbCats{
-    color: #b89841;
+    color: #496FAF;
     font-size: 13px;
     text-transform: uppercase;
     line-height: .8;
@@ -2428,7 +2428,7 @@ body.menuOpened .sideMenuArea{
     letter-spacing: 0px;
 }
 .singleBlog2 .sbCats a{
-    color: #b89841;
+    color: #496FAF;
     font-size: 13px;
     text-transform: uppercase;
     line-height: .8;
@@ -2452,7 +2452,7 @@ body.menuOpened .sideMenuArea{
     padding: 140px 0 110px;
 }
 .blogSection3 .sectionTitle small{
-    color: #2DD1D2;
+    color: #496FAF;
 }
 .singleBlog3{
     width: 310px;
@@ -2480,7 +2480,7 @@ body.menuOpened .sideMenuArea{
     color: #2c3da7;
 }
 .singleBlog3 .sbCats{
-    color: #b89841;
+    color: #496FAF;
     font-size: 13px;
     text-transform: uppercase;
     line-height: .8;
@@ -2489,7 +2489,7 @@ body.menuOpened .sideMenuArea{
     letter-spacing: 0px;
 }
 .singleBlog3 .sbCats a{
-    color: #b89841;
+    color: #496FAF;
     font-size: 13px;
     text-transform: uppercase;
     line-height: .8;
@@ -2642,7 +2642,7 @@ body.menuOpened .sideMenuArea{
 .subsNotice i, .consNotice i{
     background: #fff none repeat scroll 0 0;
     border-radius: 50%;
-    color: #2DD1D2;
+    color: #496FAF;
     font-size: 60px;
     height: 109px;
     text-align: center;
@@ -2677,7 +2677,7 @@ body.menuOpened .sideMenuArea{
     font-weight: 400;
 }
 .subscribeForm2 button{
-    background: #b89841;
+    background: #496FAF;
     color: #FFF;
     font-weight: 700;
     letter-spacing: 2px;
@@ -2709,7 +2709,7 @@ body.menuOpened .sideMenuArea{
     font-weight: 400;
 }
 .subscribeForm3 button{
-    background: #b89841;
+    background: #496FAF;
     color: #FFF;
     font-weight: 700;
     letter-spacing: 2px;
@@ -2727,7 +2727,7 @@ body.menuOpened .sideMenuArea{
 
 
 /*=======================================================================
-// Contact Section 
+// Contact Section
 =========================================================================*/
 .contactSection{
     width: 100%;
@@ -2880,7 +2880,7 @@ button.submita:hover{
     margin-right: 30px;
 }
 .conInfos2 p i{
-    color: #b89841;
+    color: #496FAF;
     margin-right: 11px;
 }
 .conforms2{
@@ -2892,7 +2892,7 @@ button.submita:hover{
     border-color: #CCC;
 }
 .conforms2 .submita{
-    background: #b89841;
+    background: #496FAF;
     font-weight: 700;
     letter-spacing: 2px;
     color: #FFF;
@@ -2910,13 +2910,13 @@ button.submita:hover{
     background: #FFF;
 }
 .contactSection3 .sectionTitle small{
-    color: #2DD1D2;
+    color: #496FAF;
 }
 .sconInfo h5 i{
-    color: #2DD1D2;
+    color: #496FAF;
 }
 .conforms3 .submita{
-    background: #b89841;
+    background: #496FAF;
     font-weight: 300;
     letter-spacing: 2px;
     color: #FFF;
@@ -3048,7 +3048,7 @@ button.submita:hover{
     padding: 90px 0;
 }
 .comonPagTitle{
-    color: #b89841;
+    color: #496FAF;
     display: block;
     font-size: 16px;
     line-height: .8;
@@ -3098,7 +3098,7 @@ button.submita:hover{
     color: #FFF;
 }
 .featuredContent h2 a:hover{
-    color: #2DD1D2;
+    color: #496FAF;
 }
 .featuredContent .cats{
     width: 100%;
@@ -3108,7 +3108,7 @@ button.submita:hover{
     line-height: .8;
 }
 .featuredContent .cats a{
-    color: #2DD1D2;
+    color: #496FAF;
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 0;
@@ -3129,7 +3129,7 @@ button.submita:hover{
     position: relative;
 }
 .featuredContent .sbFooter a:hover{
-    color: #2DD1D2;
+    color: #496FAF;
 }
 .featuredContent .sbFooter a i{
     bottom: -2px;
@@ -3222,11 +3222,11 @@ button.submita:hover{
     color: #FFF;
 }
 .listHeader h1 a:hover, .blBG .listHeader h1 a:hover{
-    color: #2DD1D2;
+    color: #496FAF;
 }
 .bloglist .sbCats{
     font-size: 13px;
-    color: #b89841;
+    color: #496FAF;
     line-height: .8;
     text-transform: uppercase;
     font-weight: 700;
@@ -3234,7 +3234,7 @@ button.submita:hover{
 }
 .bloglist .sbCats a{
     font-size: 13px;
-    color: #b89841;
+    color: #496FAF;
     line-height: .8;
     text-transform: uppercase;
     letter-spacing: 0;
@@ -3260,7 +3260,7 @@ button.submita:hover{
     color: rgba(0, 0, 0, .5);
 }
 .bloglist .sbFooter a:hover{
-    color: #2DD1D2;
+    color: #496FAF;
 }
 .quotList.bloglist .sbFooter a:hover{
     color: #fff;
@@ -3304,7 +3304,7 @@ button.submita:hover{
     color: #FFF;
 }
 .videoContent h1 a:hover{
-    color: #2DD1D2;
+    color: #496FAF;
 }
 .videoContent .sbCats{
     padding-top: 17px;
@@ -3333,7 +3333,7 @@ button.submita:hover{
     margin:  0 0 30px;
     font-size: 14px;
     text-transform: uppercase;
-    color: #2DD1D2;
+    color: #496FAF;
     font-weight: 300;
     letter-spacing: 3px;
 }
@@ -3374,7 +3374,7 @@ button.submita:hover{
     width: 45px;
 }
 .socialIcons a:hover{
-    background: #2DD1D2;
+    background: #496FAF;
 }
 .instaFeed{
     width: 100%;
@@ -3427,7 +3427,7 @@ button.submita:hover{
     margin-top: 3px;
 }
 .singleRecent a:hover{
-    color: #2DD1D2;
+    color: #496FAF;
 }
 .tabclouds{
     width: 100%;
@@ -3490,7 +3490,7 @@ button.submita:hover{
     border: none;
     background: none;
 }
-.commentTabs ul li.active a, .commentTabs ul li.active a:hover, .commentTabs ul li a:hover, 
+.commentTabs ul li.active a, .commentTabs ul li.active a:hover, .commentTabs ul li a:hover,
 .commentTabs ul li a:focus, .commentTabs ul li:focus a{
     background: #29a3e7;
     color: #FFF;
@@ -3644,12 +3644,12 @@ button.submita:hover{
     font-size: 13px;
     line-height: .8;
     letter-spacing: 0;
-    color: #b89841;
+    color: #496FAF;
     font-weight: 700;
 }
 .singleHeader .cats a{
     text-transform: uppercase;
-    color: #b89841;
+    color: #496FAF;
     letter-spacing: 0;
     display: inline-block;
     line-height: .8;
@@ -3688,7 +3688,7 @@ button.submita:hover{
     font-weight: 400;
 }
 .authInfo a:hover{
-    color: #2DD1D2;
+    color: #496FAF;
 }
 .singleInfos{
     width: 100%;
@@ -3709,7 +3709,7 @@ button.submita:hover{
     margin-right: 23px;
 }
 .singleInfos a:hover{
-    color: #2DD1D2;
+    color: #496FAF;
 }
 .singleInfos a i{
     bottom: -2px;
@@ -3887,15 +3887,15 @@ button.submita:hover{
     font-weight: 300;
 }
 .relatedBlog .sbHeader h1 a:hover{
-    color: #b89841;
+    color: #496FAF;
 }
 .relatedBlog .sbCats{
-    color: #b89841;
+    color: #496FAF;
     font-size: 13px;
     font-weight: 700;
 }
 .relatedBlog .sbCats a{
-    color: #b89841;
+    color: #496FAF;
     font-size: 13px;
     font-weight: 700;
     letter-spacing: 0;
@@ -3907,7 +3907,7 @@ button.submita:hover{
     font-weight: 400;
 }
 .relatedBlog .sbFooter a:hover{
-    color: #b89841;
+    color: #496FAF;
 }
 .owlItem{
     width: 100%;
@@ -4015,7 +4015,7 @@ button.submita:hover{
     display: block;
     line-height: .8;
     letter-spacing: 0;
-    color: #b89841;
+    color: #496FAF;
     text-transform: capitalize;
     margin-bottom: 10px;
 }
@@ -4030,7 +4030,7 @@ button.submita:hover{
 }
 .comDetailsa h3 a{
     font-size: 13px;
-    color: #b89841;
+    color: #496FAF;
     letter-spacing: 2px;
     text-transform: uppercase;
     margin: 0 0 0 17px;
@@ -4059,7 +4059,7 @@ button.submita:hover{
     color: #000;
 }
 .comDetailsa h3 a:hover:before{
-    background: #b89841;
+    background: #496FAF;
 }
 .comContenta{
     font-size: 16px;
@@ -4140,7 +4140,7 @@ button.submita:hover{
     text-transform: uppercase;
     letter-spacing: 2px;
     border: none;
-    background: #b89841;
+    background: #496FAF;
     border-radius: 5px;
     transition: all ease 500ms;
     -moz-transition: all ease 500ms;
@@ -4244,7 +4244,7 @@ button.submita:hover{
     line-height: .7;
     text-transform: uppercase;
     letter-spacing: 2.8px;
-    color: #b89841;
+    color: #496FAF;
     font-weight: 700;
     margin: 0 0 25px;
 }
@@ -4319,7 +4319,7 @@ button.submita:hover{
     text-transform: uppercase;
 }
 .clName a{
-    color: #b89841;
+    color: #496FAF;
 }
 .clName a:hover{
     color: #000;
