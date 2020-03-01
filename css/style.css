@@ -71,6 +71,11 @@
 .menuOpened #page {
     margin-left: -300px; width: 100%;
 }
+
+body{
+    overflow-x: hidden;
+}
+
 body.menuOpened {
     overflow: hidden;
 }
@@ -102,6 +107,10 @@ body.menuOpened .fixedHeader{
 }
 .logo{
     width: 100%;
+    height: 94px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     text-align: left;
     padding-bottom: 0px;
     transition: all ease 500ms;
@@ -112,6 +121,7 @@ body.menuOpened .fixedHeader{
 }
 .logo img {
     width: 80%;
+
 }
 .logo a{
     font-family: Roboto;
@@ -1858,11 +1868,12 @@ body.menuOpened .sideMenuArea{
     margin-top: 50px;
 }
 .singleTeam2 .teamHoverContent{
+    border-radius: 50%;
     position: absolute;
-    left: 0;
+    left: 14px;
     top: 0;
-    width: 100%;
-    height: 100%;
+    width: 243px;
+    height: 243px;
     background: rgba(29, 44, 69, .7);
     opacity: 0;
     visibility: hidden;
@@ -2523,7 +2534,7 @@ body.menuOpened .sideMenuArea{
     width: auto;
     max-width: 100%;
     height: auto;
-    position relative;
+    position: relative;
     top: -50%;
     -webkit-transfor: translateY(-50%);
     -ms-transfor: translateY(-50%);
